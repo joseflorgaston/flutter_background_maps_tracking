@@ -15,7 +15,7 @@ The flutter_background_maps_tracking package is a powerful Flutter solution desi
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Track users movement on a Google Maps interface.
 
 ## Getting started
 
@@ -129,13 +129,13 @@ the required parameters.
 ## Additional information
 
 - **Contributing**: We welcome contributions! Feel free to open issues or pull requests
-   on our [GitHub repository](https://github.com/your_username/your_tracking_package).
+   on our [GitHub repository](https://github.com/joseflorgaston/flutter_background_maps_tracking).
 
 - **Issues**: If you encounter any issues or have suggestions for improvements,
-   please [file an issue](https://github.com/your_username/your_tracking_package/issues).
+   please [file an issue](https://github.com/joseflorgaston/flutter_background_maps_tracking/issues).
 
 - **Contact**: For further information or inquiries, you can reach out to us at
-   [your_email@example.com](mailto:your_email@example.com).
+   [joseflorgaston@gmail.com](mailto:joseflorgaston@gmail.com).
 
 - **License**: This package is released under the [MIT License](https://opensource.org/licenses/MIT).
 See the [LICENSE](https://github.com/your_username/your_tracking_package/blob/main/LICENSE) file for details.
